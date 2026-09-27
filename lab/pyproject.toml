@@ -1,0 +1,33 @@
+[project]
+name = "system-one"
+version = "0.1.0"
+description = "Proceso paso a paso para automatizar decisiones con modelos System One (Laya, Kev)"
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Josue Salazar" }]
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    # Los dos modelos, fijados a la versión con la que se generaron los datos de la web.
+    # Laya está en PyPI; Kev no (el "kev" de PyPI es otro paquete), así que uv lo instala desde su repositorio.
+    "laya==0.3.20",
+    "kev @ git+https://github.com/jaredpalmer/kev@5920c5fe4ca8e0970ed4209ac2c9b8e18bea5109",
+    "torch>=2.6,<2.9",
+    "transformers>=5.17,<6",
+    "datasets>=3.0",
+]
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["system_one"]
+
+# torch para CPU: todo el laboratorio corre en CPU.
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

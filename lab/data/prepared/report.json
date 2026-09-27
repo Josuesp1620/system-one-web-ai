@@ -1,0 +1,41 @@
+{
+  "source": {
+    "repository": "Faramir/Bitext-customer-support-llm-chatbot-training-dataset-spanish",
+    "license": "CDLA-Sharing-1.0",
+    "synthetic": true
+  },
+  "loaded": 24184,
+  "cleaning": {
+    "kept": 24119,
+    "dropped_untranslated": 65,
+    "examples_dropped": [
+      "I call to file a reclamation against your company",
+      "i wan help to cancel purchase {{Order Number}}",
+      "ened help with cancelling purchase {{Order Number}}",
+      "see the termination fee help seeing the termination fee ayudar a ver la tarifa de terminación",
+      "I cant open a profile where do i inform of a sign-up issue",
+      "I want assistance canceling order {{Order Number}}",
+      "i can't sign up help me reporting sign-up errors",
+      "cange un artículo de pedido {{Order Number}} how could I do it wanna wanna",
+      "Ineed help adding an item to order {{Order Number}}",
+      "Help filing a customer complant against your business"
+    ]
+  },
+  "train": 23579,
+  "test": 540,
+  "test_per_intent": 20,
+  "seed": 20260927,
+  "test_by_category": {
+    "ACCOUNT": 120,
+    "ORDER": 80,
+    "REFUND": 60,
+    "SHIPPING": 40,
+    "INVOICE": 40,
+    "PAYMENT": 40,
+    "FEEDBACK": 40,
+    "CONTACT": 40,
+    "DELIVERY": 40,
+    "CANCEL": 20,
+    "SUBSCRIPTION": 20
+  }
+}

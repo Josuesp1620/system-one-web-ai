@@ -1,0 +1,7 @@
+# pnpm 10 exige `packages` en este archivo. Es un solo paquete.
+packages:
+  - "."
+
+allowBuilds:
+  esbuild: true
+  workerd: true

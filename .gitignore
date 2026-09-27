@@ -1,0 +1,15 @@
+# Python (lab)
+lab/.venv/
+lab/*.egg-info/
+__pycache__/
+lab/data/prepared/train.jsonl
+
+# Web
+web/node_modules/
+web/dist/
+web/.pnpm-store/
+web/.wrangler/
+*.tsbuildinfo
+
+# Video de presentación (solo local)
+video/

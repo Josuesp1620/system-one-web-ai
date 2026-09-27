@@ -1,0 +1,540 @@
+{"id": "bitext-es-2131", "text": "cancela la compra732201349959", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-1535", "text": "Compré algún maldito producto, ayúdame a cancelar el pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BCLW"}
+{"id": "bitext-es-16410", "text": "He comprado algunos artículos, cancelar el pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BCELMV"}
+{"id": "bitext-es-2724", "text": "¿Qué tengo que hacer para cancelar el pedido {{Order Number}}?", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-16417", "text": "cancelar la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-144", "text": "Necesito ayuda para cancelar la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-12660", "text": "pregunta sobre la cancelación de la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-10569", "text": "ayuda para cancelar la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12276", "text": "necesidad de asistencia cancelación de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-13636", "text": "¿Podrías ayudarme a cancelar la compra {{Order Number}}?", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-21677", "text": "Quiero asistencia para cancelar un pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-14148", "text": "Necesito asistencia para cancelar la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-22547", "text": "Tengo problemas con la cancelación del pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BM"}
+{"id": "bitext-es-9797", "text": "Quiero asistencia para cancelar un pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-13374", "text": "¿Qué tengo que hacer para cancelar la compra {{Order Number}}?", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-4053", "text": "cancelación de la compra {{Order Number}} assistance", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-7999", "text": "Quiero asistencia para cancelar la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2023", "text": "Prfoblems con orden de cancelación {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BMZ"}
+{"id": "bitext-es-3575", "text": "cancelación de orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-1030", "text": "Tengo problemas con la cancelación del pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "cancel_order"}, "source": "bitext-es", "variations": "BMQ"}
+{"id": "bitext-es-7889", "text": "¿Puedo corregir el orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-286", "text": "¿Cómo puede editar el orden {{Order Number}}?", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-3080", "text": "Necesito ayuda para intercambiar algo de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7246", "text": "actualización de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20334", "text": "¿Qué necesito hacer para editar el orden {{Order Number}}?", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-7689", "text": "No sé cómo puedo borrar algo de la orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-8899", "text": "Quiero editar purgase {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-2192", "text": "Añadir artículo para ordenar {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-420", "text": "correcto orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-15266", "text": "Necesito ayuda para añadir varios productos para ordenar {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLMQZ"}
+{"id": "bitext-es-7342", "text": "modify purchase {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-8224", "text": "añadiendo algunos artículos para comprar ayuda {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-12953", "text": "Quiero ayuda para cambiar algo de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-13144", "text": "Cómo puedo eliminar algunos artículos de la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-21274", "text": "Tengo que cambiar de compra {{Order Number}} necesito asistencia", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BCLQZ"}
+{"id": "bitext-es-16870", "text": "no puedo agregar algunos artículos para comprar {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BELMNQ"}
+{"id": "bitext-es-21936", "text": "actualización de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-14593", "text": "no puedo cambiar un producto de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BELNQ"}
+{"id": "bitext-es-5667", "text": "Necesito añadir algunos malditos artículos para ordenar {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BLMQW"}
+{"id": "bitext-es-13440", "text": "¿Puede ayudarme a cambiar un artículo de pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "change_order"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-21405", "text": "No sé qué hacer para cambiar la dirección.", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-16923", "text": "Necesito ayuda para omdificar mi dirección", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-24148", "text": "Intentando editar la dirección de asistencia de envío", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21558", "text": "Quiero apoyo tratando de cambiar mi dirección de entrega", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2094", "text": "Quiero ayuda para editar mi dirección de envío.", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-1671", "text": "Quiero modificar la dirección de entrega", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21956", "text": "Hay un problema tratando de cambiar mi dirección de envío", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-18457", "text": "Quiero ayuda para corregir mi dirección", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-19184", "text": "¿Dónde puedo cambiar la dirección de entrega?", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-19486", "text": "soporte para corregir mi dirección", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-6547", "text": "Quiero soportes para cambiar mi dirección", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-1494", "text": "Tengo que modificar la dirección de envío, ¿podrías ayudarme?", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-13952", "text": "Cambiar la dirección de entrega  asistencia cambiando la dirección de entrega  asistencia", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2237", "text": "¿Cómo puedo encontrar información sobre un cambio de dirección de entrega?", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-18152", "text": "Quiero ayuda tratando de cambiar la dirección de envío", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-19413", "text": "¿cómo puedo corregir mi dirección de entrega?", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-10697", "text": "¿Dónde puedo obtener información sobre la modificación de la dirección?", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-7139", "text": "corrigiendo mi dirección de entrega asistencia", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-7458", "text": "No sé cómo podría cambiar mi dirección de envío.", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BEP"}
+{"id": "bitext-es-3694", "text": "Necesito ayuda para corregir mi dirección.", "labels": {"category": "SHIPPING", "intent": "change_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-13323", "text": "Necesito comprobar el cargo de terminación, ¿cómo lo hago?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-19986", "text": "¿Puedes decirme los cargos de terminación?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BILMZ"}
+{"id": "bitext-es-19881", "text": "Quiero revisar la pena de retiro ayudarme", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BCLQ"}
+{"id": "bitext-es-16130", "text": "Necesito ayuda para comprobar los cargos de retiro", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-24012", "text": "Necesito ayuda para ver los cargos de cancelación", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-1326", "text": "Quiero ayuda para ver la tarifa de terminación anticipada", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-22345", "text": "Quiero que la Asidtance compruebe la pena de salida anticipada", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-13663", "text": "Necesito comprobar la tarifa de terminación anticipada", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-22590", "text": "¿Puedes ayudarme a ver el cargo de salida anticipada?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-5837", "text": "Necesito ver la cuota de retiro, ¿cómo puedo hacerlo?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-2880", "text": "Quiero ver las tarifas de retiro, ¿cómo puedo hacerlo?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BCILM"}
+{"id": "bitext-es-10131", "text": "¿Dónde ver y cuáles son las sanciones de terminación?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BILMQZ"}
+{"id": "bitext-es-16853", "text": "No sé cómo puedo ver la tarifa de terminación", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-16892", "text": "Quieren asistencia para comprobar el cargo de temrinamiento", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-18307", "text": "Quiero ayuda en el pago de la cuota de retiro", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-17387", "text": "¿Puedes ayudarme a ver la tarifa de retiro?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-7205", "text": "Para ayudar a comprobar el cargo de terminación anticipada", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15602", "text": "Tengo que ver la multa por cancelación", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-19993", "text": "Tengo que revisar las sanciones de retiro.", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-10820", "text": "Tengo que ver la salida temprana, ¿puedo obtener ayuda?", "labels": {"category": "CANCEL", "intent": "check_cancellation_fee"}, "source": "bitext-es", "variations": "BCILQZ"}
+{"id": "bitext-es-21388", "text": "¿Puedes echarme un vistazo rápido a la factura #37777?", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-455", "text": "Ver factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-6971", "text": "No sé cómo comprobar las facturas de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BELM"}
+{"id": "bitext-es-7576", "text": "Necesito ver la maldita factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLW"}
+{"id": "bitext-es-4175", "text": "encontrar las facturas de {{Person Name}} could i get somw wanna help", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BCILMPQZ"}
+{"id": "bitext-es-1985", "text": "Comprueba la factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-6297", "text": "No sé qué debo hacer para buscar la factura #00108", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-14902", "text": "Necesito ayuda para encontrar mi maldita factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLW"}
+{"id": "bitext-es-13046", "text": "Necesito ayuda para ver mi factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-2321", "text": "verificación de las facturas", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BKM"}
+{"id": "bitext-es-11794", "text": "¿Puedes ayudarme a echar un vistazo a la factura #00108?", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-19118", "text": "Necesito localizar la factura de {{Person Name}} help me", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BCLQZ"}
+{"id": "bitext-es-46", "text": "Necesitamos ayuda para echar un vistazo rápido a la factura #12588", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-10746", "text": "Perdí el proyecto de ley #00108, muéstrame.", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BCL"}
+{"id": "bitext-es-13953", "text": "Necesito buscar la factura #37777", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-735", "text": "No sé qué debo hacer para ver la factura #37777", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BELZ"}
+{"id": "bitext-es-21802", "text": "Tengo que ver la factura #00108", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-11721", "text": "¿Dónde puedo echar un vistazo a mi factura #12588?", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-9586", "text": "No sé qué hacer para revisar el proyecto de ley #37777", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-8031", "text": "No sé cómo echar un vistazo rápido a mi factura #00108", "labels": {"category": "INVOICE", "intent": "check_invoice"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-6166", "text": "¿Cuáles son sus opciones de pago disponibles?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-18989", "text": "Necesito ayuda para comprobar sus modalidades de pago disponibles.", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-7759", "text": "Quiero ayuda para ver sus opciones de pago disponibles", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-754", "text": "Cómo comprobar qué opciones de pago están disponibles", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-1340", "text": "la lista de modalidades de pago permitidas", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15509", "text": "¿Cómo puedo comprobar sus modalidades de pago disponibles?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-16764", "text": "Tengo que enumerar sus opciones de pago disponibles, necesito ayuda.", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BCL"}
+{"id": "bitext-es-22686", "text": "Estoy tratando de comprobar las modalidades de pago aceptadas.", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-14222", "text": "¿Qué métodos de pago son aceptados?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-20974", "text": "No sé cómo ver los métodos de pago aceptados.", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-20313", "text": "Tengo que enumerar las opciones de pago disponibles", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-9128", "text": "véase las modalidades de pago permitidas", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-5805", "text": "¿Cómo hacer una lista de las modalidades de pago permitidas?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-19581", "text": "Me gustaría ver los métodos de pago, ¿me ayudará?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-20042", "text": "Lista de los métodos de pago y asistencia", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2545", "text": "¿Podría ayudarme a ver qué métodos de pago son aceptados?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-21422", "text": "Quiero comprobar sus modalidades de pago", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-19950", "text": "Necesitamos asistencia para comprobar sus modalidades de pago permitidas.", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-885", "text": "¿cómo puedo listar los métodos de pago permitidos?", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-1142", "text": "Tengo que ver las modalidades de pago disponibles", "labels": {"category": "PAYMENT", "intent": "check_payment_methods"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-236", "text": "Ayúdame a comprobar en qué casos puedo solicitar reembolsos.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-16792", "text": "En qué casos puedo pedir reembolsos", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-13446", "text": "ayudar a ver su garantía de devolución de dinero", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-22248", "text": "Compruebe su política de reembolso. necesito ayuda.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BCQ"}
+{"id": "bitext-es-11351", "text": "Quiero ver cuánto tiempo suelen tardar los reembolsos, ¿cómo hacerlo?", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-9578", "text": "Necesito comprobar en qué casos puedo solicitar un reembolso", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-3557", "text": "Necesito ayuda para comprobar en qué casos puedo solicitar reembolsos", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20409", "text": "Veamos en qué situaciones puedo solicitar el reembolso de mi dinero.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-23040", "text": "Para ayudar a comprobar en qué casos puedo solicitar el reembolso de mi dinero.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21376", "text": "Ayúdame a comprobar en qué casos puedo solicitar un reembolso.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BQZ"}
+{"id": "bitext-es-15047", "text": "Compruebe en qué situaciones puedo solicitar reembolsos", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-20767", "text": "Ayúdame a ver su garantía de devolución de dinero.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-4681", "text": "Ayúdame a ver en qué casos puedo solicitar un reembolso.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-8740", "text": "Necesito comprobar su política de reembolso, ¿me ayudará?", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-12694", "text": "¿En qué situaciones puedo pedir reembolsos?", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-17689", "text": "Necesito ayuda para comprobar en qué casos puedo solicitar reembolsos.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-3363", "text": "Tengo que ver cuánto tiempo tardan los reembolsos.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20405", "text": "Quiero ver en qué casos puedo solicitar el reembolso de mi dinero.", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-13155", "text": "Para ayudar a comprobar en qué casos puedo solicitar un reembolso", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3882", "text": "Ayuda a comprobar su política de devolución de dinero", "labels": {"category": "REFUND", "intent": "check_refund_policy"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-9492", "text": "No sé qué tengo que hacer para presentar como reclamo de consumo", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-20012", "text": "Hacer quejas de clientes contra su empresa", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BKLQ"}
+{"id": "bitext-es-1023", "text": "No sé qué debo hacer para presentar una queja de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-23451", "text": "Ayúdame a presentar una reclamación de clientes contra su empresa", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-24007", "text": "Para hacer que un cliente reclame agaisnt ur organización asistencia asistencia", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-19985", "text": "No sé cómo presentar una queja de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12856", "text": "Intento presentar una reclamación de clientes", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2842", "text": "No sé qué debo hacer para presentar una queja de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21343", "text": "Es necesario presentar un reclamo de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-16748", "text": "No estoy contento con su servicio, ayúdame a hacer una reclamación.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BCL"}
+{"id": "bitext-es-19276", "text": "¿Puede ya hrlp me hacer un reclamo contra su organización", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-7140", "text": "Tengo que presentar una reclamación de cliente", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-14633", "text": "Me gustaría presentar una queja de consumo, ¿me ayudarías?", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-21959", "text": "Estoy llamando para presentar un reclamo contra su empresa", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-16478", "text": "¿puedo hacer una reclamación al consumidor?", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-17043", "text": "La presentación de un reclamo de consumo contra su organización de asistencia al consumidor", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20593", "text": "Necesito presentar un reclamo contra su empresa", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-13027", "text": "Tengo que presentar una queja de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15714", "text": "Quiero asistencia para presentar una reclamación de clientes", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-4746", "text": "Quiero ayuda para presentar un reclamo de consumo.", "labels": {"category": "FEEDBACK", "intent": "complaint"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-4146", "text": "Tengo que hablar con el servicio de atención al cliente, ¿cómo lo hago?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-22550", "text": "Quiero hablar con el servicio de atención al cliente, ¿cómo lo hago?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-20143", "text": "Quiero hablar con la asistencia al cliente, ¿podrías ayudarme?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-4931", "text": "Tengo que comprobar qué horas puedo llegar al servicio de atención al cliente", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3154", "text": "Necesito ver a qué hora puedo ponerme en contacto con el soporte al cliente", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-21191", "text": "¿Podría decirme a qué hora puedo llegar al servicio de atención al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-14463", "text": "Necesito ponerme en contacto con el servicio de atención al cliente ¿cómo lo hago?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BCIQ"}
+{"id": "bitext-es-6401", "text": "Necesitamos ayuda para ver a qué hora está disponible el servicio al cliente.", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-12405", "text": "No sé cómo ponerme en contacto con el servicio de atención al cliente", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BE"}
+{"id": "bitext-es-22415", "text": "¿Puedes mostrarme a qué hora está disponible el servicio al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BIQ"}
+{"id": "bitext-es-7365", "text": "¿Cómo puedo ver a qué hora puedo ponerme en contacto con el servicio al cliente", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-8418", "text": "¿Cómo comprobar a qué hora puedo llamar al servicio al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-13100", "text": "¿Puede ayudarme a llamar a la asistencia de los clientes?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-21125", "text": "Quiero hablar con el maldito servicio de atención al cliente, ayúdame.", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BCLW"}
+{"id": "bitext-es-17903", "text": "Quiero ponerme en contacto con la asistencia al cliente.", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-13512", "text": "¿Puedes decirme qué horas puedo llamar al servicio al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-12615", "text": "¿Qué es el correo de soporte al cliente", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-11256", "text": "¿Cómo puedo comprobar qué horas puedo llamar al servicio de atención al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-13813", "text": "No sé qué hacer para hablar con el soporte al cliente.", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-6947", "text": "¿Tiene un número gratuito para ponerse en contacto con el servicio de atención al cliente?", "labels": {"category": "CONTACT", "intent": "contact_customer_service"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-8072", "text": "No te entiendo, necesito ayuda para hablar con alguien.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BCL"}
+{"id": "bitext-es-11762", "text": "No sé qué debo hacer para hablar con alguien.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-613", "text": "Si no estás siendo útil, habla con un asistente.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BCEL"}
+{"id": "bitext-es-18976", "text": "¿Puedes ayudarme a hablar con un operador?", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-20206", "text": "Tengo que charlar con un agente de huamn", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-7491", "text": "Hablar con un asistente", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-66", "text": "Necesito ayuda para ponerme en contacto con alguien.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20065", "text": "Estoy tratando de hablar con una persona", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-15290", "text": "¿Puedes ayudarme a hablar con alguien?", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-10843", "text": "charlar con un agente humano", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-7662", "text": "Necesitan ayuda para hablar con alguien.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-19886", "text": "Quiero ayuda poniéndose en contacto con una persona", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7634", "text": "Uare no ehlpful i need assistance para hablar con una persona", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BCELQZ"}
+{"id": "bitext-es-8079", "text": "Necesito ayuda para hablar con un agente humano.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-8778", "text": "Necesitan ayuda para chatear con un operador", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-7912", "text": "No sé qué hacer para hablar con un asistente.", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15550", "text": "Quiero ayuda hablando con un asistente", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-23051", "text": "¿Qué debo hacer para hablar con un agente en vivo?", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-20266", "text": "¿Puedo hablar con alguien?", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-20153", "text": "¿Qué debo hacer para chatear con una persona?", "labels": {"category": "CONTACT", "intent": "contact_human_agent"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-21952", "text": "¿dónde crear una cuenta de platino?", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-16105", "text": "¿Dónde puedo abrir una cuenta premium para mi prometido?", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-19870", "text": "¿Cómo abrir una cuenta freemium?", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-8659", "text": "No tengo una cuenta profesional, ¿puedes ayudarme a abrir una?", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BCILN"}
+{"id": "bitext-es-16761", "text": "Necesito crear una cuenta de oro", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-7453", "text": "Tengo que abrir una cuenta premium", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-6546", "text": "La apertura de una nueva cuenta freemium para la hija", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-23166", "text": "No puedo crear una cuenta de platino para mi hija.", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BELN"}
+{"id": "bitext-es-10230", "text": "Abre una cuenta profesional para esposa", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-22065", "text": "Tengo que crear una cuenta {{Account Category}}, necesito ayuda.", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BCL"}
+{"id": "bitext-es-10053", "text": "¿Puedes ayudarme a abrir una cuenta de oro para mi padre?", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-22188", "text": "Abre una cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-18690", "text": "Abre una cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15741", "text": "Tengo un problema con la creación de una cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BQ"}
+{"id": "bitext-es-1723", "text": "La apertura de una nueva cuenta {{Account Type}} para la hija", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-20695", "text": "Necesito ayuda para abrir una cuenta estándar", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3420", "text": "no puedo crear una cuenta freemium para mi padre", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BELNQ"}
+{"id": "bitext-es-15921", "text": "Si no estoy registrado puedo crear una cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BCILQ"}
+{"id": "bitext-es-20989", "text": "Crea una nueva cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-5810", "text": "no sé cómo abrir una cuenta de oro", "labels": {"category": "ACCOUNT", "intent": "create_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-8920", "text": "No uso mi cuenta {{Account Category}} quiero ayuda para eliminarla", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BCELQZ"}
+{"id": "bitext-es-0", "text": "Podría ayudarme a cerrar una cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BILPQ"}
+{"id": "bitext-es-14856", "text": "¿Qué tengo que hacer para cancelar mi cuenta de platino?", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-5459", "text": "{{Account Category}} cuenta remover", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-13963", "text": "cancelación de una cuenta premium", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-9619", "text": "cerrando la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-23014", "text": "Necesito ayuda para cancelar mi cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-546", "text": "Eliminar la cuenta de {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-4852", "text": "Quiero asistencia para eliminar una cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-304", "text": "Quiero información sobre la eliminación de una cuenta de oro", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15296", "text": "Quieren asistencia para cancelar la cuenta estándar", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-20517", "text": "Tengo un problema con la cancelación de una cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-14272", "text": "¿Cómo puedo obtener información sobre la eliminación de una cuenta de oro?", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-11714", "text": "¿Cómo puedo cerrar mi cuenta freemium?", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-6718", "text": "Tengo que cerrar mi cuenta estándar, ¿cómo lo hago?", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-12460", "text": "Necesito ayuda para cerrar mi cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-9478", "text": "No sé qué debo hacer para cerrar una cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3066", "text": "No sé qué debo hacer para borrar mi cuenta {{Account Category}}.", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-18542", "text": "Quiero ayuda para cancelar la cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-9698", "text": "No sé qué debo hacer para cerrar mi cuenta profesional.", "labels": {"category": "ACCOUNT", "intent": "delete_account"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-10453", "text": "Hsipping to {{Delivery Country}}", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLSZ"}
+{"id": "bitext-es-18471", "text": "¿Puedo colocar un orador desde {{Delivery City}}?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIQSZ"}
+{"id": "bitext-es-12608", "text": "¿Puedes mostrarme qué métodos de entrega están disponibles?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-14223", "text": "No sé cómo comprobar qué métodos de entrega existen.", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-20491", "text": "Quiero ayuda para comprobar qué métodos de entrega tengo.", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-6903", "text": "Ayúdame a comprobar qué métodos de envío tengo.", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-17792", "text": "¿Es posible ordenar desde {{Delivery City}}?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIQS"}
+{"id": "bitext-es-5948", "text": "Quiero ayuda para comprobar qué métodos de envío tengo", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-21179", "text": "¿Es posible hacer un pedido desde {{Delivery City}}?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIS"}
+{"id": "bitext-es-22616", "text": "¿Dónde ver qué opciones de entrega ofrecen?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-2845", "text": "envío a {{Delivery Country}}", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLS"}
+{"id": "bitext-es-24114", "text": "¿Dónde puedo ver qué malditos métodos de envío hay?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BILMW"}
+{"id": "bitext-es-6864", "text": "¿Puedo ordenar desde {{Delivery Country}}?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIQSZ"}
+{"id": "bitext-es-15157", "text": "Quiero comprobar qué métodos de entrega están disponibles", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-15271", "text": "¿Podría ordenar desde {{Delivery Country}}", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIPQS"}
+{"id": "bitext-es-2756", "text": "Tengo que ver las opciones de envío, ¿puedo obtener ayuda?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-18018", "text": "¿Hace usted la entrega a {{Delivery City}} ?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BISZ"}
+{"id": "bitext-es-20915", "text": "¿Hace usted la entrega a {{Delivery City}} ?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BISZ"}
+{"id": "bitext-es-10721", "text": "¿Cómo puedo ver qué métodos de entrega están disponibles?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-10745", "text": "¿Es posible ordenar desde {{Delivery Country}}?", "labels": {"category": "DELIVERY", "intent": "delivery_options"}, "source": "bitext-es", "variations": "BIS"}
+{"id": "bitext-es-9400", "text": "Necesito ayuda para ver cuánto tiempo tarda la entrega.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-16336", "text": "Necesito ayuda para ver cuánto tiempo tarda mi envío en llegar.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7202", "text": "Quiero ayuda para comprobar cuánto tiempo tarda el envío.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-954", "text": "Intento ver cuándo llegará mi producto", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3105", "text": "¿ Cuándo puedo esperar mi paquete ?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-18624", "text": "¿ Dónde puedo comprobar cuánto tiempo puedo esperar de mi producto ?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-23488", "text": "Llámenme a comprobar cuándo llegará mi producto.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-12482", "text": "Tengo que comprobar cuándo llegará mi artículo, necesito ayuda.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BC"}
+{"id": "bitext-es-6101", "text": "Quiero ayuda para ver cuándo llegará mi compra.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-5553", "text": "¿Qué tengo que hacer para comprobar cuándo llegará mi paquete?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-2471", "text": "Intento comprobar cuánto tiempo puedo esperar el producto", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-22913", "text": "¿Puedo comprobar cuánto tiempo puedo esperar mi paquete?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-17583", "text": "¿Qué debo hacer para verificar cuándo llegará mi artículo?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-15363", "text": "¿Es posible comprobar cuánto tiempo puedo esperar el artículo?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-1998", "text": "No sé cómo comprobar cuándo llegará mi producto.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-24064", "text": "¿Puedes ayudarme a ver cuándo llegará mi paquete?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-130", "text": "¿Dónde puedo ver qué tan pronto puedo esperar mi producto?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-332", "text": "Muéstrame cuánto tiempo tarda mi pedido en llegar.", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-20449", "text": "¿Cómo puedo saber cuándo llegará mi producto?", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-9772", "text": "Quiero ayuda para ver cuánto tiempo puedo esperar la compra", "labels": {"category": "DELIVERY", "intent": "delivery_period"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-14563", "text": "detalles de edición en la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-1469", "text": "Datos sobre el cambio de cuenta de {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-15460", "text": "Datos sobre {{Account Type}} cambiando de cuenta", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-12045", "text": "Actualizando la información sobre la cuenta de oro", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLQ"}
+{"id": "bitext-es-4744", "text": "correctinmg detalles en la cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLMZ"}
+{"id": "bitext-es-10340", "text": "Información sobre el cambio de cuentas freemium", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-20069", "text": "actualizando {{Account Type}} accojnt", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-9991", "text": "corregir detalles en la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-5508", "text": "Actualizando los datos de la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2275", "text": "modificando la información de la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-22027", "text": "La información correcta sobre la cuenta freemium", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLQ"}
+{"id": "bitext-es-6940", "text": "editando información sobre la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-3519", "text": "La información sobre el cambio de cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-18552", "text": "Corrección de información en la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-20530", "text": "Actualizando los datos de la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLMZ"}
+{"id": "bitext-es-2558", "text": "Editdata en la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-23332", "text": "modificando la cuenta {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-11070", "text": "Quiero ayuda para cambiar la información de mi usuario", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-8218", "text": "¿Puedo actualizar la información incluida en mi perfil de usuario?", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-1113", "text": "No sé qué debo hacer para editar la información de mi usuario.", "labels": {"category": "ACCOUNT", "intent": "edit_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-13623", "text": "No sé qué debo hacer para descargar el proyecto de ley #37777", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BELQZ"}
+{"id": "bitext-es-4536", "text": "Quiero ayuda para conseguir el proyecto de ley #37777", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-10438", "text": "No sé cómo puedo descargar la factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-21065", "text": "Envíame un billa desde {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BKLMZ"}
+{"id": "bitext-es-3644", "text": "¿Dónde puedo obtener las facturas de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-5983", "text": "¿Puede ayudarme a descargar la factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-7392", "text": "Tengo que conseguir la factura de {{Person Name}}, ¿me ayudarás?", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BCILP"}
+{"id": "bitext-es-17069", "text": "No sé qué debo hacer para obtener mi factura #12588", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BELQ"}
+{"id": "bitext-es-9597", "text": "Quiero ayuda para descargar mis facturas de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-13382", "text": "Necesito ayuda para obtener las facturas de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-13565", "text": "Obtenga las facturas de {{Person Name}} cómo puedo hacerlo wanna", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BCILMQ"}
+{"id": "bitext-es-12420", "text": "Tengo que obtener la factura de {{Person Name}} cómo puedo hacerlo", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BCIQZ"}
+{"id": "bitext-es-15321", "text": "No sé cómo obtener la factura #12588", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BQZ"}
+{"id": "bitext-es-13438", "text": "para descargar mi factura #85632 nede", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-21275", "text": "Obtenga ibll #00108", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-18727", "text": "No sé qué hacer para obtener la factura #00108", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BEQ"}
+{"id": "bitext-es-2119", "text": "descarga de factura desde {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-23689", "text": "Necesito ayuda para descargar mi factura #00108", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-14881", "text": "Necesito obtener mi factura de {{Person Name}}", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-10655", "text": "No sé cómo descargar el proyecto de ley #12588", "labels": {"category": "INVOICE", "intent": "get_invoice"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-285", "text": "No sé cómo puedo pedir un descuento.", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-15365", "text": "No sé qué hacer para obtener un reembolso de dinero.", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-20333", "text": "¿Será posible obtener malditas compensaciones de dinero?", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILMPQW"}
+{"id": "bitext-es-3957", "text": "reembolsando {{Refund Amount}} dólares", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-12019", "text": "Para ayudar a pedir reembolsos de dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-17552", "text": "¿Podrías ayudarme a obtener compensaciones de mi dinero?", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILMP"}
+{"id": "bitext-es-17681", "text": "Estoy tratando de solicitar descuentos de mi dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-11566", "text": "Cómo solicitar descuentos de mi dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-15165", "text": "Necesito que el hepp solicite compensaciones", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLMZ"}
+{"id": "bitext-es-8584", "text": "Quiero mi reembolso de dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-5117", "text": "¿Puedes ayudarme a exigir un reembolso?", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-9196", "text": "No sé qué debo hacer para recibir un descuento.", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-22909", "text": "He pagado {{Currency Symbol}}{{Refund Amount}} por un pedido, quiero una compensación", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BCELMV"}
+{"id": "bitext-es-3710", "text": "Necesito ayuda para exigir restituciones de dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-6734", "text": "No sé cómo obtener un reembolso de mi dinero.", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BEMZ"}
+{"id": "bitext-es-7184", "text": "¿Cómo puedo obtener un descuento de dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-13336", "text": "no sé cómo solicitar un reembolso de dinero", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BELQ"}
+{"id": "bitext-es-2132", "text": "Tengo que exigir un descuento", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-11832", "text": "Recibiendo un reembolso", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-22554", "text": "¿Cuánto tiempo falta para que reciba un descuento?", "labels": {"category": "REFUND", "intent": "get_refund"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-19587", "text": "Necesito ayuda para cancelar mi suscripción a su boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12243", "text": "¿Dónde puedo cancelar mi suscripción al boletín de noticias?", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-20849", "text": "Quiero asistencia para desinscribirse en el boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-14476", "text": "No sé cómo cancelar mi suscripción al boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-5125", "text": "Cuéntame acerca de la suscripción al boletín informativo corporativo.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-10213", "text": "¿Es posible suscribirse a su boletín de noticias corporativo?", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-18212", "text": "Necesitan asistencia para suscribirse a su boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7691", "text": "Desinscripción del boletín de noticias  asistencia", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-11214", "text": "Cuéntame acerca de desconectarse de tu newslewtter", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-8223", "text": "Suscribirse a la newsletter corporativa puede ayudarme wanna", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BCILQ"}
+{"id": "bitext-es-12793", "text": "Necesito ayuda para suscribirme al boletín informativo de su empresa.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-3767", "text": "Ayúdame a recibir tu boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-14366", "text": "Necesitamos asistencia para suscribirse al boletín informativo.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-1769", "text": "No puedo suscribirme a su boletín informativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BELZ"}
+{"id": "bitext-es-6952", "text": "¿Qué tengo que hacer para cancelar la suscripción a su boletín?", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-11166", "text": "Ayúdame a inscribirme en el boletín de noticias", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3460", "text": "No sé qué debo hacer para suscribirme al boletín informativo.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-22512", "text": "Quiero ayuda para recibir el boletín informativo corporativo.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-1478", "text": "Ayúdame a desconectarme del boletín informativo corporativo", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12029", "text": "puede ayudarme a darme de baja la suscripción a su redactor de noticias corporativo.", "labels": {"category": "SUBSCRIPTION", "intent": "newsletter_subscription"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-910", "text": "Ayúdame a notificarme de un problema con el pago en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-13654", "text": "¿Puedes ayudarme a resolver errores con pagos?", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-14443", "text": "Estoy tratando de reportar problemas con el pago en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQZ"}
+{"id": "bitext-es-18188", "text": "Para ayudar a informar de los errores con los pagos en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-16659", "text": "Quiero ayuda para notificar problemas con el pago", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-4842", "text": "No sé qué hacer para notificar un error de pago.", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-17849", "text": "Los problemas de presentación de informes con los pagos en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-9497", "text": "Necesitamos asistencia para notificar un problema con el pago.", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-8303", "text": "Reporte un error con los pagos", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-5314", "text": "¿Dónde puedo reportar problemas con el pago en línea?", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-60", "text": "¿Puedes ayudarme a reportar problemas con el pago en línea?", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-14523", "text": "No sé cómo puedo informar de los problemas con los pagos", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-609", "text": "Quiero asistencia para reportar problemas con el pago", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-16008", "text": "Quiero ayuda para resolver errores con pagos en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-6846", "text": "¿Puedes ayudarme a notificarme de un problema con los pagos en línea?", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-3230", "text": "¿Sería posible informar de un problema con el pago?", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-1312", "text": "Quiero informar de un problema con los pagos en línea", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-576", "text": "No sé qué debo hacer para notificar los problemas de pago", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BELM"}
+{"id": "bitext-es-22406", "text": "Ayúdame a notificar un problema con el pago", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-7693", "text": "Quieren ayuda para informar de los problemas con los pagos", "labels": {"category": "PAYMENT", "intent": "payment_issue"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-20001", "text": "Necesito ayuda para adquirir algunos de sus artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-21455", "text": "No sé cómo puedo ordenar algunos de sus artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-21185", "text": "¿Es posible comprar algunos productos?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-18385", "text": "Necesito ayuda para ganar varios artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-19446", "text": "¿Cómo puedo comprar un artículo?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-8392", "text": "No sé qué hacer para adquirir algo de su artículo.", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BELMQ"}
+{"id": "bitext-es-18746", "text": "Quiero ayuda para adquirir algunos de tus artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-3219", "text": "Quiero adquirir varios de sus productos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-15895", "text": "Pedir un poco de su producto ayuda", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-13810", "text": "No sé qué debo hacer para comprar algunos artículos.", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BELMQ"}
+{"id": "bitext-es-23913", "text": "hacer compras", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BKZ"}
+{"id": "bitext-es-19639", "text": "Necesito adquirir algo de su producto ¿puedo ayudarme?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BCILMQZ"}
+{"id": "bitext-es-9491", "text": "Estoy tratando de adquirir varios artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-18364", "text": "¿Puedes ayudarme a ordenar varios artículos?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-4797", "text": "Necesito ayuda para comprar varios de sus artículos.", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-14600", "text": "No sé qué hacer para ordenar algunos de tus artículos", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-14697", "text": "¿Dónde puedo obtener productos de Seberal?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BILMZ"}
+{"id": "bitext-es-20569", "text": "¿Podrías ayudarme a comprar algo de tu artículo?", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BILMPZ"}
+{"id": "bitext-es-19137", "text": "Ayúdame a comprar algunos de tus artículos.", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-16885", "text": "Necesitamos ayuda para comprar algo de nuestro artículo.", "labels": {"category": "ORDER", "intent": "place_order"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-5233", "text": "Ayúdame a recuperar mi contraseña de cuenta", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-9575", "text": "¿Dónde puedo restaurar mi código PIN?", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-1193", "text": "Tengo problemas con una contraseña olvidada", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BMQ"}
+{"id": "bitext-es-20324", "text": "Necesito ayuda para restablecer mi contraseña de cuenta", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-8662", "text": "Tengo que restaurar el código PIN de mi usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-8052", "text": "Necesito ayuda para recuperar el PIN de mi perfil.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-4381", "text": "¿cómo puedo recuperar el código PIN de mi cuenta?", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-22051", "text": "Necesito ayuda para recuperar el código PIN de mi perfil de usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-15245", "text": "Necesito ayuda para restablecer la contraseña de mi cuenta de usuario", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-2072", "text": "Estoy tratando de restablecer el pwd de mi perfil de usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-23585", "text": "No puedo recuperar mi cuenta.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLNQZ"}
+{"id": "bitext-es-21108", "text": "Necesito ayuda para restablecer el pwd de mi cuenta de usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-12688", "text": "Quiero recuperar el código PIN de mi perfil", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-21780", "text": "No puedo restaurar la clave de mi perfil", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BELN"}
+{"id": "bitext-es-18372", "text": "No sé qué debo hacer para restaurar mi PIN.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-3149", "text": "No sé qué debo hacer para restablecer mi pasaporte.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-2243", "text": "Ayuda para recuperar la clave de mi perfil de usuario", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21553", "text": "¿Cómo puedo recuperar el PIN de mi perfil?", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-2596", "text": "Quiero ayuda para recuperar el pwd de mi cuenta de usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7450", "text": "Quiero recuperar la clave de acceso de mi cuenta de usuario.", "labels": {"category": "ACCOUNT", "intent": "recover_password"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-431", "text": "Quiero ayuda para informar sobre un problema con la matrícula sangrienta.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLMW"}
+{"id": "bitext-es-6785", "text": "¿cómo puedo reportar problemas con un registro", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILMQ"}
+{"id": "bitext-es-23774", "text": "¿Podría ayudarme a notificar un error con el registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-10330", "text": "notificar de problemas en la creación de cuentas de usuario", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-22688", "text": "notificar de problemas con el registro en línea", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-8393", "text": "Tengo que notificar cualquier problema con el registro.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLMZ"}
+{"id": "bitext-es-10825", "text": "Ayúdame a notificar errores de registro", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-2255", "text": "Necesito ayuda para notificar errores con un registro.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-11580", "text": "¿Dónde puedo informar de errores con un registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILMP"}
+{"id": "bitext-es-21529", "text": "La apertura de un problema de reporte para el usuario", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-20608", "text": "Necesito ayuda para reportar un error de registro", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-20748", "text": "No sé cómo notificar los problemas con un registro.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BELM"}
+{"id": "bitext-es-1082", "text": "Estoy tratando de informar de un error con el registro.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-17731", "text": "Quiero ayuda para informar de errores de registro.", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-7072", "text": "¿Es posible informar de errores con un registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILM"}
+{"id": "bitext-es-22178", "text": "¿Cómo puedo notificar un problema con un registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-9062", "text": "¿Dónde informar de un problema de registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-11149", "text": "¿Cómo puedo notificar un error con el maldito registro?", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BILMW"}
+{"id": "bitext-es-281", "text": "no puedo notificar un error con un registro", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BELNQ"}
+{"id": "bitext-es-23693", "text": "notificar de problemas creando usuario", "labels": {"category": "ACCOUNT", "intent": "registration_problems"}, "source": "bitext-es", "variations": "BKLM"}
+{"id": "bitext-es-19643", "text": "Quiero ayuda para dejar comentarios para sus servicios.", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BLW"}
+{"id": "bitext-es-19307", "text": "¿Podría ayudarme a enviar mis comentarios sobre sus productos?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-21750", "text": "Necesito enviar alguna retroalimentación para un servicio, ¿cómo hacerlo?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-14500", "text": "No sé cómo enviar comentarios sobre sus productos", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BELZ"}
+{"id": "bitext-es-11044", "text": "Quiero escribir un comentario sobre sus productos, ¿cómo lo hago?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-1974", "text": "¿Tiene un correo electrónico para dejar comentarios sobre sus servicios?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILZ"}
+{"id": "bitext-es-16864", "text": "Uhave una dirección para enviar algunos comentarios para sus servicios", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-9979", "text": "No sé cómo puedo enviar alguna retroalimentación sobre un producto", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-5092", "text": "No sé cómo escribir una opinión para un servicio", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-1773", "text": "¿Tiene una sección para enviar comentarios sobre un servicio?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-17599", "text": "Me gustaría escribir una reseña, ayúdame.", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BCLP"}
+{"id": "bitext-es-15610", "text": "¿Puedo escribir un comentario sobre su empresa?", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-8810", "text": "Quiero dejar un comentario sobre un producto.", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-11125", "text": "Ya tengo una sección para dejar mi retroalimentación sobre tu empresa", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-8235", "text": "No sé cómo enviar mi maldito feedback para un producto", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BELW"}
+{"id": "bitext-es-5600", "text": "Quiero ayuda en la presentación de mi opinión sobre su empresa.", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-10073", "text": "No sé cómo dejar una opinión.", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-5448", "text": "¿Hay una sección para dejar algo de feedack para los servicios ur", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILQZ"}
+{"id": "bitext-es-2324", "text": "Tengo que enviar algo de retroalimentación para un servicio", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-18852", "text": "Podría ayudarme a escribir una maldita opinión sobre un producto", "labels": {"category": "FEEDBACK", "intent": "review"}, "source": "bitext-es", "variations": "BILPQW"}
+{"id": "bitext-es-19301", "text": "Tengo problemas para enviar otra dirección de envío.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-7713", "text": "Problemas con la configuración de una dirección de entrega secundaria", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12925", "text": "Necesito ayuda para ingresar la nueva dirección de envío.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-237", "text": "Tengo que introducir una dirección de entrega, ¿puedes ayudarme?", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BCIL"}
+{"id": "bitext-es-20966", "text": "problemas en la configuración de una maldita dirección de entrega", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLMW"}
+{"id": "bitext-es-19288", "text": "Estoy tratando de configurar la maldita dirección de entrega.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLW"}
+{"id": "bitext-es-20347", "text": "Estoy tratando de configurar otra dirección de entrega", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-7862", "text": "¿Cómo enviar otra dirección de envío?", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-20200", "text": "Necesito ayuda para configurar la dirección de entrega secundaria.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-12304", "text": "¿Dónde puedo configurar la nueva dirección de entrega?", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-13733", "text": "Configurar un servicio de envío para apoyar a los padres", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-20122", "text": "Necesito ayuda para ingresar una dirección de entrega secundaria.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-23855", "text": "He tenido un problema al enviar una nueva dirección de entrega.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-15811", "text": "¿Puedo configurar una nueva dirección de envío?", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-23212", "text": "Problemas con el envío de adiciones adicionales", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-19995", "text": "Ayúdame a configurar mi dirección de envío secundaria.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-16332", "text": "Tengo un problema con la configuración de una dirección de envío secundaria.", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-14201", "text": "Estoy tratando de configurar otra dirección de envío", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BQ"}
+{"id": "bitext-es-17321", "text": "¿Puedes ayudarme a configurar una dirección de envío?", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-8131", "text": "Problemas en la configuración de una nueva dirección de entrega", "labels": {"category": "SHIPPING", "intent": "set_up_shipping_address"}, "source": "bitext-es", "variations": "BLM"}
+{"id": "bitext-es-5575", "text": "¿Puedo cambiar a la cuenta de platino?", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-5873", "text": "No sé qué hacer para cambiar a otro perfil de usuario", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-24040", "text": "Cuando cambie la cuenta {{Account Type}} necesito ayuda", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BCLQZ"}
+{"id": "bitext-es-8656", "text": "No sé qué debo hacer para cambiar a la cuenta pro", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BELZ"}
+{"id": "bitext-es-20594", "text": "usar una cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-17880", "text": "Cambiando a otra cuenta", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-12297", "text": "¿Cómo cambiar a la cuenta {{Account Type}}?", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-21479", "text": "¿Es posible cambiar a la cuenta {{Account Category}}?", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-11319", "text": "Cambiar a la cuenta premium ayuda ayuda", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-16758", "text": "Changkng a la cuenta premium", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-17846", "text": "Necesito ayuda usando la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BQ"}
+{"id": "bitext-es-15661", "text": "No sé cómo cambiar a la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-4128", "text": "¿Es posible cambiar a la cuenta {{Account Category}}?", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BIQ"}
+{"id": "bitext-es-9910", "text": "ayuda usando el perfil premium", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-2025", "text": "No sé qué hacer para cambiar a la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-10866", "text": "Ayúdame a usar el perfil {{Account Category}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-12302", "text": "cdan uhelp me usando la cuenta de platino", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BIQZ"}
+{"id": "bitext-es-17837", "text": "Tengo que cambiar a la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BQ"}
+{"id": "bitext-es-7434", "text": "Cambiar a otro usuario", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BK"}
+{"id": "bitext-es-11892", "text": "No sé qué hacer para cambiar a la cuenta {{Account Type}}", "labels": {"category": "ACCOUNT", "intent": "switch_account"}, "source": "bitext-es", "variations": "BEQ"}
+{"id": "bitext-es-18435", "text": "Intento ver la eta de orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-19634", "text": "¿cómo comprobar el estado de compra {{Order Number}}?", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-9447", "text": "¿Qué necesito hacer para rastrear el orden {{Order Number}}?", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BI"}
+{"id": "bitext-es-9", "text": "Véase la compra de {{Order Number}} estado", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-21686", "text": "Intento ver el estado actual de la compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-10155", "text": "no puedo comprobar la compra {{Order Number}} estado", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BELNQ"}
+{"id": "bitext-es-16239", "text": "Véase la compra {{Order Number}} statsu", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-15889", "text": "Quiero ver la compra {{Order Number}} actual estado", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-23648", "text": "Quiero ayuda para comprobar el orden {{Order Number}} actual estado", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-6480", "text": "Cómo comprobar la ETA del pedido {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BILQ"}
+{"id": "bitext-es-121", "text": "Compruebe el estado actual de compra {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-11557", "text": "Necesito ayuda para comprobar el estado de purechase {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-4738", "text": "No puedo ver el orden {{Order Number}} estado", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BELN"}
+{"id": "bitext-es-16449", "text": "No sé qué hacer para ver el estado de la orden {{Order Number}}", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BELZ"}
+{"id": "bitext-es-4674", "text": "Quiero ver el estado de orden {{Order Number}} necesito ayuda", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BCLQZ"}
+{"id": "bitext-es-14282", "text": "Ver orden {{Order Number}} estado actual", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-13887", "text": "Checking purchase {{Order Number}} assistance bloody current status", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLW"}
+{"id": "bitext-es-23952", "text": "370795561790 orden estado actual", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BKLZ"}
+{"id": "bitext-es-13361", "text": "Tengo que localizar la compra {{Order Number}} necesito ayuda", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BCLQ"}
+{"id": "bitext-es-13790", "text": "Quiero asistencia para ver el orden {{Order Number}} syatus", "labels": {"category": "ORDER", "intent": "track_order"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-9339", "text": "Estoy esperando un descuento de {{Currency Symbol}}{{Refund Amount}}", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-2101", "text": "Espero un reembolso de {{Refund Amount}} dólares", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-11341", "text": "¿Puedo rastrear el reembolso?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-18595", "text": "Ayuda a comprobar el estado actual de la restitución", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BL"}
+{"id": "bitext-es-4698", "text": "Espero un descuento de {{Currency Symbol}}{{Refund Amount}}", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLQ"}
+{"id": "bitext-es-5784", "text": "verificando el estado del descuento", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BKL"}
+{"id": "bitext-es-684", "text": "¿Cómo puedo comprobar si hay algo nuevo en la restitución?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-4376", "text": "No sé cómo comprobar el estado actual del descuento.", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BEL"}
+{"id": "bitext-es-21681", "text": "Estoy esperando una compensación de {{Refund Amount}} dólares", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLQZ"}
+{"id": "bitext-es-1607", "text": "Estoy esperando un reembolso de {{Currency Symbol}}{{Refund Amount}}", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BQZ"}
+{"id": "bitext-es-10701", "text": "¿Dónde puedo saber si hay algo nuevo sobre el reembolso?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-5280", "text": "Estoy esperando un reembolso de {{Refund Amount}} dollras", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLZ"}
+{"id": "bitext-es-14928", "text": "¿Puedo ver si hay algo nuevo en el reembolso?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-9160", "text": "Espero un reembolso de {{Currency Symbol}}{{Refund Amount}}", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-961", "text": "No puedo comprobar si hay noticias sobre mi restitución.", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLMN"}
+{"id": "bitext-es-14309", "text": "Estoy esperando un reembolso de {{Refund Amount}} dólares", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "B"}
+{"id": "bitext-es-4600", "text": "¿Podría ayudarme a comprobar el estado de mi restitución?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BILP"}
+{"id": "bitext-es-7336", "text": "¿Puedes mostrarme el estado actual del descuento?", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BIL"}
+{"id": "bitext-es-14453", "text": "Necesito comprobar si hay alguna actualización sobre mi compensación", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BLMQ"}
+{"id": "bitext-es-20370", "text": "No sé qué hacer para rastrear mi compensación.", "labels": {"category": "REFUND", "intent": "track_refund"}, "source": "bitext-es", "variations": "BELQ"}

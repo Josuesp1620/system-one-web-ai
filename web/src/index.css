@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+/* Misma base visual que planos-web-ai (serie web-ai): interfaz grafito sobria; el color queda para los datos. */
+@theme {
+  --color-canvas: #0b0d12;
+  --color-panel: #111419;
+  --color-line: #1f242e;
+  --color-ink: #e9ebf0;
+  --color-muted: #8d94a5;
+  --color-accent: #f7c948;
+  --color-message: #5ee0f0;
+  --color-question: #a78bfa;
+  --color-positive: #9ae6b4;
+  --color-alert: #f47ab8;
+  --font-display: "Bricolage Grotesque", "Arial Black", sans-serif;
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html, body, #root { height: 100%; }
+body { margin: 0; background: var(--color-canvas); color: var(--color-ink); font-family: var(--font-sans); }
+::selection { background: var(--color-message); color: var(--color-canvas); }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+.glass { background: rgb(17 20 25 / 0.92); border: 1px solid rgb(255 255 255 / 0.09); box-shadow: 0 6px 24px rgb(0 0 0 / 0.35); }
+
+.range { -webkit-appearance: none; appearance: none; height: 4px; border-radius: 99px; outline: none;
+  background: linear-gradient(90deg, var(--color-ink) var(--filled), rgb(255 255 255 / 0.12) var(--filled)); }
+.range::-webkit-slider-thumb { -webkit-appearance: none; width: 16px; height: 16px; border-radius: 50%;
+  background: var(--color-canvas); border: 3px solid var(--color-ink); cursor: pointer; }
+.range::-moz-range-thumb { width: 12px; height: 12px; border-radius: 50%; background: #fff; border: 3px solid var(--color-ink); cursor: pointer; }
+.range:focus-visible::-webkit-slider-thumb { outline: 2px solid #fff; outline-offset: 2px; }
+
+.thin-scroll::-webkit-scrollbar { width: 6px; height: 6px; }
+.thin-scroll::-webkit-scrollbar-thumb { background: rgb(255 255 255 / 0.12); border-radius: 9px; }
+
+/* Flujo de las líneas del paso 2. */
+.flow-line { animation: flow 1.2s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -12; } }
+
+/* Barras de desplazamiento ocultas (pestañas): se sigue pudiendo deslizar en pantallas angostas. */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
